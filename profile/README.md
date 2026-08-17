@@ -30,6 +30,7 @@
 ## 📋 Tabla de Contenidos
 
 - [🌊 Sobre Nosotros](#-sobre-nosotros)
+- [👥 Miembros Clave](#-miembros-clave)
 - [🚀 Nuestros Servicios](#-nuestros-servicios)
 - [🛠️ Stack Tecnológico](#️-stack-tecnológico)
   - [Backend](#backend)
@@ -38,7 +39,7 @@
   - [DevOps & Infraestructura](#devops--infraestructura)
   - [Inteligencia Artificial](#inteligencia-artificial)
 - [⭐ Proyectos Destacados](#-proyectos-destacados)
-- [👥 Equipo & Metodología](#-equipo--metodología)
+- [📋 Equipo & Metodología](#-equipo--metodología)
 - [📊 Nuestro Impacto](#-nuestro-impacto)
 - [🤝 Cómo Colaborar](#-cómo-colaborar)
 - [📬 Contacto](#-contacto)
@@ -47,7 +48,9 @@
 
 ## 🌊 Sobre Nosotros
 
-**AIWaveSystems** es una organización de desarrollo de software unipersonal que opera con la agilidad de una startup y la solidez de una empresa consolidada. Fundada y liderada por **[Breiner Andres Iles Sambony](https://github.com/Ilesandres)**, nos especializamos en la creación de herramientas tecnológicas tanto **Open Source** como **privadas (a la medida)**, diseñadas para resolver problemas reales del mundo empresarial.
+**AIWaveSystems** es una organización de desarrollo de software que opera con la agilidad de una startup y la solidez de una empresa consolidada. Fundada y liderada por **[Breiner Andres Iles Sambony](https://github.com/Ilesandres)**, nos especializamos en la creación de herramientas tecnológicas tanto **Open Source** como **privadas (a la medida)**, diseñadas para resolver problemas reales del mundo empresarial.
+
+Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol definido y complementario. Desde el desarrollo técnico hasta la planificación estratégica, cada persona aporta su expertise para entregar soluciones de calidad.
 
 > *"Cada línea de código que escribimos está impulsada por la experiencia adquirida en el campo, no por teorías abstractas."*
 > — **Breiner Andres Iles Sambony**, Fundador & Lead Developer
@@ -59,6 +62,22 @@
 - **Automatización inteligente**: Buscamos eliminar tareas repetitivas mediante automatizaciones robustas, liberando tiempo para la innovación.
 - **Integración con IA**: Aprovechamos el poder de la Inteligencia Artificial a través de APIs para crear soluciones más inteligentes, predictivas y eficientes.
 - **Multiidioma nativo**: Diseñamos sistemas pensando en usuarios globales desde el primer día, con arquitecturas multiidioma integradas.
+
+---
+
+## 👥 Miembros Clave
+
+<div align="center">
+
+| Miembro | Rol Principal | GitHub | Descripción |
+|---------|--------------|--------|-------------|
+| 👨‍💻 **Breiner Andres Iles Sambony** | Fundador & Backend Principal | [@Ilesandres](https://github.com/Ilesandres) | Arquitecto de soluciones, desarrollador backend líder con 2+ años de experiencia. Especialista en NestJS, Node.js, bases de datos y despliegues. |
+| 🔧 **SYSTEMPROMT** | Segundo Desarrollador & Co-Creador | [@SYSTEMPROMT](https://github.com/SYSTEMPROMT) | Segundo desarrollador clave del equipo. Participa activamente en el desarrollo de proyectos, aportando en backend, frontend y automatizaciones. Co-creador de herramientas internas. |
+| 📋 **Scrum Master** | Revisión, Planeación & Gestión Ágil | — | **No codea frecuentemente**, pero es fundamental en el equipo. Se encarga de la **revisión de código**, la **planeación de sprints**, la **facilitación de ceremonias Scrum** y la **eliminación de impedimentos**. Garantiza que el equipo mantenga ritmo y calidad. |
+
+</div>
+
+> 💡 **Nota sobre nuestro equipo**: Aunque somos una organización unipersonal en su estructura legal, nuestros proyectos operan con un equipo técnico de **3 a 5 participantes** en promedio. Cada rol está claramente definido: los desarrolladores se enfocan en construir, y el Scrum Master se enfoca en **revisar, planificar y asegurar la calidad del proceso**.
 
 ---
 
@@ -162,7 +181,7 @@ Nuestro stack tecnológico está cuidadosamente seleccionado para ofrecer el mej
 
 ### 🔧 [SYSTEMPROMT](https://github.com/SYSTEMPROMT)
 
-> **Desarrollador Principal**
+> **Desarrollador Principal: Breiner Andres Iles Sambony** | **Co-Creador & Segundo Desarrollador: SYSTEMPROMT**
 
 Plataforma de **Code Review** y **Centralización de Información** diseñada para equipos de desarrollo que practican metodologías ágiles. SYSTEMPROMT optimiza los flujos de trabajo Scrum mediante:
 
@@ -170,6 +189,9 @@ Plataforma de **Code Review** y **Centralización de Información** diseñada pa
 - ✅ Centralización de documentación técnica y de negocio
 - ✅ Integración con flujos de trabajo Scrum
 - ✅ Dashboards de seguimiento para Scrum Masters
+- ✅ Herramientas de planeación de sprints y gestión de impedimentos
+
+Este proyecto nace de la necesidad real de nuestro propio equipo: tener una herramienta que unifique la revisión de código, la documentación y la gestión ágil en un solo lugar.
 
 ---
 
@@ -194,29 +216,42 @@ Para clientes empresariales, desarrollamos soluciones completamente personalizad
 
 ---
 
-## 👥 Equipo & Metodología
+## 📋 Equipo & Metodología
 
 ### Estructura del Equipo
 
-Aunque **AIWaveSystems** es una organización unipersonal en su núcleo, nuestros proyectos cuentan con un equipo dinámico y especializado:
+Aunque **AIWaveSystems** es una organización unipersonal en su estructura legal, nuestros proyectos cuentan con un equipo técnico dinámico y especializado:
 
 <div align="center">
 
-| Rol | Descripción | Promedio por Proyecto |
-|-----|-------------|----------------------|
-| 👨‍💻 **Backend Principal** | Arquitectura de APIs, lógica de negocio, bases de datos | 1-2 devs |
-| 🎨 **Frontend Developers** | Interfaces de usuario, experiencia de usuario, responsive design | 1-2 devs |
-| 🤖 **DevOps / Infraestructura** | Despliegues, CI/CD, monitoreo, servidores | 1 dev |
-| 📋 **Scrum Master** | Gestión ágil, facilitación de ceremonias, eliminación de impedimentos | 1 (rotativo) |
+| Rol | Descripción | Responsabilidades Clave | Promedio por Proyecto |
+|-----|-------------|------------------------|----------------------|
+| 👨‍💻 **Backend Principal** | Arquitectura de APIs, lógica de negocio, bases de datos | Diseño de arquitectura, desarrollo backend, optimización de consultas, despliegues | 1-2 devs |
+| 🔧 **Segundo Desarrollador (SYSTEMPROMT)** | Desarrollo full stack, automatizaciones, soporte técnico | Desarrollo de features, integraciones, scripts de automatización, code review entre pares | 1 dev |
+| 🎨 **Frontend Developers** | Interfaces de usuario, experiencia de usuario, responsive design | Maquetación, componentes UI/UX, consumo de APIs, optimización de rendimiento | 1-2 devs |
+| 🤖 **DevOps / Infraestructura** | Despliegues, CI/CD, monitoreo, servidores | Configuración de pipelines, Docker, servidores (físicos y cloud), monitoreo | 1 dev |
+| 📋 **Scrum Master** | Revisión, planeación y gestión ágil del proyecto | **Revisión de código**, **planeación de sprints**, facilitación de ceremonias Scrum, eliminación de impedimentos, aseguramiento de calidad del proceso | 1 |
 
 **Promedio total de participantes por proyecto: 3 a 5 personas**
 
 </div>
 
+### Sobre el Scrum Master
+
+Nuestro **Scrum Master** juega un rol crítico que va más allá de la gestión de ceremonias:
+
+- 🔍 **Revisión de Código**: Revisa cada Pull Request con ojo crítico, asegurando estándares de calidad, buenas prácticas y consistencia en el código.
+- 📅 **Planeación de Sprints**: Define el alcance, prioriza el backlog y distribuye las tareas según la capacidad del equipo.
+- 🚧 **Eliminación de Impedimentos**: Identifica y remueve bloqueos que puedan ralentizar al equipo.
+- 📊 **Seguimiento de Métricas**: Monitorea la velocidad del equipo, la calidad de entregas y el cumplimiento de objetivos.
+- 💬 **Facilitación**: Coordina dailies, plannings, reviews y retrospectives.
+
+> ⚠️ **Importante**: El Scrum Master **casi no codea**. Su valor no está en escribir código, sino en **garantizar que el código que se escribe sea de calidad, que el equipo esté alineado y que los proyectos se entreguen a tiempo**.
+
 ### Metodología de Trabajo
 
 - **Scrum**: Iteraciones cortas, entregas frecuentes, retroalimentación continua
-- **Code Review estricto**: Cada línea de código pasa por revisión antes de llegar a producción
+- **Code Review estricto**: Cada línea de código pasa por revisión del Scrum Master y del equipo antes de llegar a producción
 - **Documentación como código**: La documentación vive junto al código, actualizada en cada commit
 - **CI/CD automatizado**: Despliegues automáticos con pruebas integradas
 - **Monitoreo continuo**: Observabilidad desde el primer día en producción
@@ -252,7 +287,7 @@ Aunque **AIWaveSystems** es una organización unipersonal en su núcleo, nuestro
 2. 🌿 Crea una **rama** para tu feature (`git checkout -b feature/nueva-funcionalidad`)
 3. 💻 Realiza tus cambios con **commits descriptivos**
 4. 📤 Envía un **Pull Request** detallando tus cambios
-5. 👀 Espera la **revisión del equipo**
+5. 👀 Espera la **revisión del equipo** (Scrum Master + desarrolladores)
 
 ### Para Clientes
 
@@ -287,7 +322,18 @@ Si necesitas una solución a la medida:
 </p>
 
 **Breiner Andres Iles Sambony**
-*Backend Principal | Scrum Master | Arquitecto de Soluciones*
+*Backend Principal | Arquitecto de Soluciones | Fundador*
+
+### 🔧 Segundo Desarrollador
+
+<p>
+  <a href="https://github.com/SYSTEMPROMT">
+    <img src="https://img.shields.io/badge/GitHub-@SYSTEMPROMT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**SYSTEMPROMT**
+*Co-Creador | Desarrollador Full Stack | Automatizaciones*
 
 </div>
 
