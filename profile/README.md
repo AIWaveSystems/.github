@@ -31,6 +31,10 @@
 
 - [🌊 Sobre Nosotros](#-sobre-nosotros)
 - [👥 Miembros Clave](#-miembros-clave)
+- [📊 Estadísticas de la Organización](#-estadísticas-de-la-organización)
+  - [📈 Actividad de Contribuidores](#-actividad-de-contribuidores)
+  - [🔥 Rachas de Commits](#-rachas-de-commits)
+  - [📊 Gráficos de Contribuciones](#-gráficos-de-contribuciones)
 - [🚀 Nuestros Servicios](#-nuestros-servicios)
 - [🛠️ Stack Tecnológico](#️-stack-tecnológico)
   - [Backend](#backend)
@@ -78,6 +82,99 @@ Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol de
 </div>
 
 > 💡 **Nota sobre nuestro equipo**: Aunque somos una organización unipersonal en su estructura legal, nuestros proyectos operan con un equipo técnico de **3 a 5 participantes** en promedio. Cada rol está claramente definido: los desarrolladores se enfocan en construir, y el Scrum Master se enfoca en **revisar, planificar y asegurar la calidad del proceso**.
+
+---
+
+## 📊 Estadísticas de la Organización
+
+<div align="center">
+
+### 📦 Métricas de la Org
+
+<p>
+  <a href="https://github.com/AIWaveSystems?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos%20Públicos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AIWaveSystems">
+    <img src="https://img.shields.io/badge/Commits%20Totales-10+-green?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/AIWaveSystems">
+    <img src="https://img.shields.io/badge/Miembros%20Clave-3-orange?style=for-the-badge&logo=users&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ilesandres">
+    <img src="https://img.shields.io/badge/Desde-2023-red?style=for-the-badge&logo=calendar&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 📈 Actividad de Contribuidores
+
+<div align="center">
+
+#### 🌊 Contribuidores de AIWaveSystems/.github
+
+<a href="https://github.com/AIWaveSystems/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AIWaveSystems/.github&max=50&columns=6" alt="Contribuidores de .github" />
+</a>
+
+#### 📹 Contribuidores de AIWaveSystems/screenRecording
+
+<a href="https://github.com/AIWaveSystems/screenRecording/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AIWaveSystems/screenRecording&max=50&columns=6" alt="Contribuidores de screenRecording" />
+</a>
+
+#### 🌐 Contribuidores de AIWaveSystems/WaveSystems
+
+<a href="https://github.com/AIWaveSystems/WaveSystems/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AIWaveSystems/WaveSystems&max=50&columns=6" alt="Contribuidores de WaveSystems" />
+</a>
+
+</div>
+
+> 👥 Las imágenes de contribuidores se generan automáticamente con [contrib.rocks](https://contrib.rocks) y se actualizan en tiempo real cuando hay nuevos commits.
+
+---
+
+### 🔥 Rachas de Commits
+
+<div align="center">
+
+#### 👨‍💻 Breiner Andres Iles Sambony — @Ilesandres
+
+<a href="https://github.com/Ilesandres">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilesandres&theme=radical&hide_border=true" alt="GitHub Streak de Ilesandres" />
+</a>
+
+#### 🔧 SYSTEMPROMT — @SYSTEMPROMT
+
+<a href="https://github.com/SYSTEMPROMT">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SYSTEMPROMT&theme=radical&hide_border=true" alt="GitHub Streak de SYSTEMPROMT" />
+</a>
+
+</div>
+
+> 🔥 Las rachas muestran la consistencia de contribuciones de cada miembro del equipo.
+
+---
+
+### 📊 Gráficos de Contribuciones
+
+<div align="center">
+
+<a href="https://github.com/Ilesandres">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilesandres&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad de Ilesandres" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SYSTEMPROMT">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYSTEMPROMT&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad de SYSTEMPROMT" />
+</a>
+
+</div>
 
 ---
 
