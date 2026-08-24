@@ -43,6 +43,8 @@
   - [DevOps & Infraestructura](#devops--infraestructura)
   - [Inteligencia Artificial](#inteligencia-artificial)
 - [⭐ Proyectos Destacados](#-proyectos-destacados)
+  - [🌐 Proyectos Públicos](#-proyectos-públicos)
+  - [🔒 Soluciones Privadas](#-soluciones-privadas)
 - [📋 Equipo & Metodología](#-equipo--metodología)
 - [📊 Nuestro Impacto](#-nuestro-impacto)
 - [🤝 Cómo Colaborar](#-cómo-colaborar)
@@ -93,7 +95,7 @@ Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol de
 
 <p>
   <a href="https://github.com/AIWaveSystems?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos%20Públicos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repos%20Públicos-5-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/AIWaveSystems">
     <img src="https://img.shields.io/badge/Commits%20Totales-10+-green?style=for-the-badge&logo=git&logoColor=white" />
@@ -208,10 +210,15 @@ Nuestro stack tecnológico está cuidadosamente seleccionado para ofrecer el mej
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spark Java](https://img.shields.io/badge/Spark%20Java-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 </div>
 
-> **NestJS** es nuestro framework principal para backend. Su arquitectura modular, inyección de dependencias y soporte nativo para TypeScript nos permite construir APIs escalables, testeables y mantenibles a largo plazo.
+> **NestJS** es nuestro framework principal para backend en Node.js. Su arquitectura modular, inyección de dependencias y soporte nativo para TypeScript nos permite construir APIs escalables, testeables y mantenibles a largo plazo.
+>
+> También manejamos **Java** con **Spring Boot** para aplicaciones empresariales robustas y **Spark Java** para microservicios ligeros y APIs rápidas.
 
 ### Frontend
 
@@ -232,6 +239,7 @@ Nuestro stack tecnológico está cuidadosamente seleccionado para ofrecer el mej
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -241,7 +249,7 @@ Nuestro stack tecnológico está cuidadosamente seleccionado para ofrecer el mej
 </div>
 
 > No creemos en "una base de datos para todo". Seleccionamos el motor de datos adecuado según el caso de uso:
-> - **Relacionales** (MySQL, PostgreSQL) para datos estructurados y transacciones ACID.
+> - **Relacionales** (MySQL, MariaDB, PostgreSQL) para datos estructurados y transacciones ACID.
 > - **NoSQL Documental** (MongoDB) para flexibilidad de esquema y desarrollo ágil.
 > - **Caché** (Redis) para alto rendimiento y sesiones en tiempo real.
 > - **Columnar** (Cassandra) para grandes volúmenes de datos distribuidos.
@@ -292,14 +300,23 @@ Este proyecto nace de la necesidad real de nuestro propio equipo: tener una herr
 
 ---
 
-### 🌐 Proyectos Open Source
+### 🌐 Proyectos Públicos
 
-Desarrollamos activamente herramientas Open Source que benefician a la comunidad de desarrolladores. Nuestros proyectos públicos se caracterizan por:
+<div align="center">
 
-- Código limpio y bien documentado
-- Arquitecturas escalables
-- Enfoque en resolver problemas reales
-- Comunidad activa de contribuyentes
+| Proyecto | Lenguaje | Descripción | Stars | Forks | Última Actualización |
+|----------|----------|-------------|:-----:|:-----:|:--------------------:|
+| [screenRecording](https://github.com/AIWaveSystems/screenRecording) | `Python` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [biblioteca-docs](https://github.com/AIWaveSystems/biblioteca-docs) | — | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [biblioteca_back](https://github.com/AIWaveSystems/biblioteca_back) | `JavaScript` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [front-biblioteca](https://github.com/AIWaveSystems/front-biblioteca) | `JavaScript` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [back_tiendanj](https://github.com/AIWaveSystems/back_tiendanj) | `TypeScript` | Sin descripción | ⭐ 0 | 🍴 0 | 2026-08-17 |
+
+</div>
+
+> 📦 Estos proyectos se listan automáticamente desde los repositorios públicos de [AIWaveSystems](https://github.com/AIWaveSystems).
+
+---
 
 ### 🔒 Soluciones Privadas (A la Medida)
 
