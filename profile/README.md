@@ -95,7 +95,7 @@ Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol de
 
 <p>
   <a href="https://github.com/AIWaveSystems?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos%20Públicos-5-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repos%20Públicos-10-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/AIWaveSystems">
     <img src="https://img.shields.io/badge/Commits%20Totales-10+-green?style=for-the-badge&logo=git&logoColor=white" />
@@ -132,6 +132,12 @@ Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol de
 
 <a href="https://github.com/AIWaveSystems/WaveSystems/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AIWaveSystems/WaveSystems&max=50&columns=6" alt="Contribuidores de WaveSystems" />
+</a>
+
+#### 🔐 Contribuidores de AIWaveSystems/biometric-service-py
+
+<a href="https://github.com/AIWaveSystems/biometric-service-py/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AIWaveSystems/biometric-service-py&max=50&columns=6" alt="Contribuidores de biometric-service-py" />
 </a>
 
 </div>
@@ -306,11 +312,14 @@ Este proyecto nace de la necesidad real de nuestro propio equipo: tener una herr
 
 | Proyecto | Lenguaje | Descripción | Stars | Forks | Última Actualización |
 |----------|----------|-------------|:-----:|:-----:|:--------------------:|
+| [biometric-service-py](https://github.com/AIWaveSystems/biometric-service-py) | `Python` | in-development | ⭐ 0 | 🍴 0 | 2026-08-24 |
+| [clipForge](https://github.com/AIWaveSystems/clipForge) | `Python` | In Development | ⭐ 1 | 🍴 0 | 2026-08-17 |
 | [screenRecording](https://github.com/AIWaveSystems/screenRecording) | `Python` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
-| [biblioteca-docs](https://github.com/AIWaveSystems/biblioteca-docs) | — | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
 | [biblioteca_back](https://github.com/AIWaveSystems/biblioteca_back) | `JavaScript` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
 | [front-biblioteca](https://github.com/AIWaveSystems/front-biblioteca) | `JavaScript` | In Development | ⭐ 0 | 🍴 0 | 2026-08-17 |
 | [back_tiendanj](https://github.com/AIWaveSystems/back_tiendanj) | `TypeScript` | Sin descripción | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [tiendanjfront](https://github.com/AIWaveSystems/tiendanjfront) | `TypeScript` | Sin descripción | ⭐ 0 | 🍴 0 | 2026-08-17 |
+| [balanceapp](https://github.com/AIWaveSystems/balanceapp) | `Dart` | in developp | ⭐ 0 | 🍴 0 | 2026-08-17 |
 
 </div>
 
