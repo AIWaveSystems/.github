@@ -34,7 +34,7 @@
 - [📊 Estadísticas de la Organización](#-estadísticas-de-la-organización)
   - [📈 Actividad de Contribuidores](#-actividad-de-contribuidores)
   - [🔥 Rachas de Commits](#-rachas-de-commits)
-  - [📊 Gráficos de Contribuciones](#-gráficos-de-contribuciones)
+  - [📊 Resumen de Actividad](#-resumen-de-actividad)
 - [🚀 Nuestros Servicios](#-nuestros-servicios)
 - [🛠️ Stack Tecnológico](#️-stack-tecnológico)
   - [Backend](#backend)
@@ -168,21 +168,47 @@ Contamos con un equipo compacto pero sólido, donde cada miembro tiene un rol de
 
 ---
 
-### 📊 Gráficos de Contribuciones
+### 📊 Resumen de Actividad
 
 <div align="center">
 
-<a href="https://github.com/Ilesandres">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilesandres&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad de Ilesandres" />
-</a>
+#### 👨‍💻 Breiner Andres Iles Sambony — @Ilesandres
 
-<br/><br/>
+<p>
+  <a href="https://github.com/Ilesandres">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilesandres&theme=radical" alt="Resumen de actividad de Ilesandres" width="700" />
+  </a>
+</p>
 
-<a href="https://github.com/SYSTEMPROMT">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYSTEMPROMT&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad de SYSTEMPROMT" />
-</a>
+<p>
+  <a href="https://github.com/Ilesandres">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilesandres&theme=radical" alt="Stats de Ilesandres" width="350" />
+  </a>
+  <a href="https://github.com/Ilesandres">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilesandres&theme=radical" alt="Lenguajes más usados por Ilesandres" width="350" />
+  </a>
+</p>
+
+#### 🔧 SYSTEMPROMT — @SYSTEMPROMT
+
+<p>
+  <a href="https://github.com/SYSTEMPROMT">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYSTEMPROMT&theme=radical" alt="Resumen de actividad de SYSTEMPROMT" width="700" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/SYSTEMPROMT">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYSTEMPROMT&theme=radical" alt="Stats de SYSTEMPROMT" width="350" />
+  </a>
+  <a href="https://github.com/SYSTEMPROMT">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYSTEMPROMT&theme=radical" alt="Lenguajes más usados por SYSTEMPROMT" width="350" />
+  </a>
+</p>
 
 </div>
+
+> 📊 Estas tarjetas muestran el calendario de contribuciones anual, estadísticas generales y los lenguajes más utilizados por cada miembro.
 
 ---
 
@@ -473,4 +499,3 @@ Si necesitas una solución a la medida:
 <p><em>© 2026 AIWaveSystems. Todos los derechos reservados.</em></p>
 
 </div>
-
